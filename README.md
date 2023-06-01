@@ -1,8 +1,14 @@
-## Notes saving web app with authorization and authentication.
+## Notes taking web app with authorization and authentication.
 
 # Setup
-1. Make sure you have Python installed
-2. Install Flask and Flask_login by running: 
-* pip install <name of the package>
-3. Run application by running:
+**Install dependencies by running:**
+* python -m pip install -r requirements.txt
+
+# Run
+**Run application by running:**
 * python main.py
+
+## Azure DevOps Repo
+* https://dev.azure.com/UnitedNotes/Unites.Notes<br><br>
+**Pipelines**
+* https://dev.azure.com/UnitedNotes/Unites.Notes/_build
